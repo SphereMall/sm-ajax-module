@@ -1,0 +1,22 @@
+{
+  "name": "ajax-module",
+  "version": "1.0.0",
+  "description": "SphereMall Ajax Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SphereMall/ajax-module.git"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "SphereMall sergey@spheremall.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SphereMall/ajax-module/issues"
+  },
+  "homepage": "https://github.com/SphereMall/ajax-module#readme"
+}
