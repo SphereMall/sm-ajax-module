@@ -13,7 +13,9 @@ module.exports = {
     
     output: {
         filename: 'ajax.module.js',
-        path: DESTINATION
+        path: DESTINATION,
+        libraryTarget: 'var',
+        library: 'AjaxModule'
     },
 
     resolve: {
