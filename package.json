@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/jasmine": "2.5.40",
     "@types/node": "7.0.0",
-    "awesome-typescript-loader": "3.0.0-beta.18",
+    "awesome-typescript-loader": "^3.3.0",
     "jasmine-core": "2.5.2",
     "karma": "1.4.0",
     "karma-jasmine": "1.1.0",
@@ -30,8 +30,11 @@
     "source-map-loader": "0.1.6",
     "tslint": "4.3.1",
     "tslint-loader": "3.3.0",
-    "typescript": "2.1.5",
+    "typescript": "2.6.1",
     "webpack": "2.2.1",
     "webpack-dev-server": "2.2.1"
+  },
+  "dependencies": {
+    "validate.js": "^0.12.0"
   }
 }
